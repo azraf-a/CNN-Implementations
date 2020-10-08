@@ -1,5 +1,9 @@
 # cnn_implementations
-Various CNN Implementations.
+Implementations for UNet and DetNet for fluoresence microscopy and biomedical imaging. Papers available at:
+DetNet - DOI: https://doi.org/10.1109/ISBI.2019.8759234
+UNet - DOI: https://doi.org/10.1007/978-3-319-24574-4_28
+
+Please review the papers when you have the chance! They're very insightful reads.
 
 Please note that the struc files will output the model summary so you can check out how the various layers are stacked.
 
